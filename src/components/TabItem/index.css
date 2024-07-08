@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.tab-item-element {
+  list-style-type: none;
+}
+.tab-button {
+  border: none;
+  background-color: transparent;
+  color: grey;
+  font-family: 'Bree Serif';
+  font-weight: 400;
+  width: 80px;
+  padding: 0 0 12px 0;
+  border-style: solid;
+  border-width: 0 0 2px 0;
+  border-bottom-color: #dfe2e5;
+  color: #7b8794;
+}
+.active-tab1 {
+  border-style: solid;
+  border-width: 0 0 2px 0;
+  border-bottom-color: #2563eb;
+  color: #2563eb;
+}
